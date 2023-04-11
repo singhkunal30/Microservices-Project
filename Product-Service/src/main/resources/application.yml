@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      database: product-service-db
+      uri: mongodb+srv://singhkunal30:micro%40123@cluster0.iw7bpzr.mongodb.net
+server:
+  port: 8090
